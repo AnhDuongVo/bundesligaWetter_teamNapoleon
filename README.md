@@ -11,7 +11,7 @@ Das ist unser Hauptcode, worauf sich der Bericht bezieht.
 Code, um die Wetterdaten von der API zu erhalten
 
 ### Ordner oldDatasets
-Ordner mit Bundesliga- und Wetterdaten
+Ordner mit Bundesliga- und Wetterdaten und VBA-Dateien Tabelle1.cls (Maincode zum mergen und Datavorbearbeitung) und helpFunctions.bas (Hilfsfunktion für Tabelle1)
 
 ### mergedData.csv
 Vereinigtes Datenset
