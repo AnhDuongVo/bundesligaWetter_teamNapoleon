@@ -16,5 +16,7 @@ Ordner mit Bundesliga- und Wetterdaten
 ## mergedData.csv
 Vereinigtes Datenset
 
+## Quellen
 Quelle für Wetterdaten: World Weather Online https://www.worldweatheronline.com/developer/
+
 Quelle für Bundesligadaten: football-data.co.uk https://www.football-data.co.uk/germanym.php
