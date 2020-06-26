@@ -1,5 +1,5 @@
 # bundesligaWetter_teamNapoleon
-Data Science 1 Project: Vereinigung von Bundesliga- und Wetterdaten und Anwendung von Clustering (K-Means, Hierarchisches Clustering)
+Data Science 1 Projekt: Vereinigung von Bundesliga- und Wetterdaten und Anwendung von Clustering (K-Means, Hierarchisches Clustering)
 
 ### bundesligaWetter.pdf
 Unser Bericht
